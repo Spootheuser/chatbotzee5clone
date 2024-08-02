@@ -1,0 +1,35 @@
+.img{
+    height: 600px;
+    width:1000px;
+    margin: 20px 60px 80px 250px;
+}
+.carousel-item{
+    background-color: black;
+}
+.img1{
+    height: 55px;
+    width: 55px;
+}
+.container{
+    width: 8000px;
+    background-color: black;
+}
+.row{
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+.pic{
+    height:400px;
+    width:300px;
+    border-radius: 10px;
+}
+.card{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    
+}
